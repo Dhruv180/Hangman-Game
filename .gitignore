@@ -1,8 +1,0 @@
-# Ignore Makefile related files
-Makefile
-*.o
-*.ko
-*.so
-*.a
-*.pyc
-*.exe
